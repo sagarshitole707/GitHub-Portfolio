@@ -267,7 +267,7 @@ p {
 /* Services Section */
 #services .services {
 	flex-direction: column;
-	text-align: center;
+	text-align: left;
 	max-width: 100px;
 	margin: 0;
 	padding: 0px 0;
