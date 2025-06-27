@@ -201,7 +201,7 @@ p {
 /* Hero Section */
 #hero {
 	background-image: url(./Img/Background_option2.jpg);
-	background-size: 100%;
+	background-size: 50%;
 	background-position: centre top;
 	position: initial;
 	z-index: 1;
@@ -291,7 +291,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(./img/img-1.png);
+	background-image: url(./Img/Background_option1.jpg);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
